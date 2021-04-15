@@ -1,6 +1,6 @@
 # school_crud
 
-## Para que este projeto execute com sucesso é necessário que você crie o seguinte banco de dados em MySQL.
+## Para que este projeto seja executado com sucesso é necessário que você crie o seguinte banco de dados em MySQL.
 
 create database school;
 
