@@ -1,20 +1,6 @@
 # school_crud
 
-## Para que este projeto seja executado com sucesso é necessário que você crie a seguinte estrutura de dados em MySQL.
-
-create database school;
-
-use school;
-
-create table students (
-
-	id int not null auto_increment,
-	name varchar(260) not null,
-	birth date not null,
-	career varchar(260) not null,
-	primary key(id)
-
-);
+## To execute this project you need to create the database structure that is in the file schooldb.sql (in your local mysql database)
 
 ![](images/index.png)
 ![](images/save.png)
